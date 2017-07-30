@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 // Have you seen that other comment? It sucks! But man, this comment is taight!!
-
+    
+    
+    //Man, Branch C is a hella nice place to write comments, lets check out axels storyboard changes!
 }
 
